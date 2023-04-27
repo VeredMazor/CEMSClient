@@ -20,7 +20,7 @@ The manager has access to the system with five different screens. The first scre
 
 <h3>Screens:</h3>
 
-<h4>Student:</h4><br><br>
+<h4>Student:</h4>
 ![TakeTestScreen](https://user-images.githubusercontent.com/72979004/235007461-05173f9f-587f-44d8-9fa2-237b51d88177.jpeg)<br>
 ![GradesScreen](https://user-images.githubusercontent.com/72979004/235007480-e0e63bc2-ed80-47f7-8515-4a6075d722d7.jpeg)<br>
 ![GradesViewTestScreen](https://user-images.githubusercontent.com/72979004/235007490-0344c940-1e0e-478b-8261-b92b545832e3.jpeg)<br>
