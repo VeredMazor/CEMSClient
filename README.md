@@ -19,3 +19,16 @@ The manager has access to the system with five different screens. The first scre
 
 
 <h3>Screens:</h3><br><br>
+
+<h4>Student:</h4><br><br>
+![TakeTestScreen](https://user-images.githubusercontent.com/72979004/235007461-05173f9f-587f-44d8-9fa2-237b51d88177.jpeg)
+![GradesScreen](https://user-images.githubusercontent.com/72979004/235007480-e0e63bc2-ed80-47f7-8515-4a6075d722d7.jpeg)
+![GradesViewTestScreen](https://user-images.githubusercontent.com/72979004/235007490-0344c940-1e0e-478b-8261-b92b545832e3.jpeg)
+
+
+<h4>Teacher:</h4><br><br>
+![TestBankScreen](https://user-images.githubusercontent.com/72979004/235007538-8f8877ef-e38f-4095-8ff3-186d60a2da77.jpeg)
+![QuestionBankScreen](https://user-images.githubusercontent.com/72979004/235007593-81adcba4-3dda-4087-bdf0-611e33ff32b1.jpeg)
+![QuestionBankEditingQuestionScreen](https://user-images.githubusercontent.com/72979004/235007607-c15c84bd-f7c4-4580-8208-3414184685d8.jpeg)
+![ViewActiveTestsScreen](https://user-images.githubusercontent.com/72979004/235007644-6fc6704c-fff5-43f6-b96a-7b8f3647f3ba.jpeg)
+
