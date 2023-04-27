@@ -1,7 +1,7 @@
 # CEMSClient
-This is a client for CEMS project.
+<h2> This is a client for CEMS project.
 This is an end of semester project for 
-"Engineering methods for developing software systems" course.
+"Engineering methods for developing software systems" course. </h2>
 
 CEMS Software for Computerized Testing
 
