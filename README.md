@@ -33,3 +33,11 @@ The manager has access to the system with five different screens. The first scre
 ![ViewActiveTestsScreen](https://user-images.githubusercontent.com/72979004/235007644-6fc6704c-fff5-43f6-b96a-7b8f3647f3ba.jpeg)<br>
 ![ScheduledTestsScreen](https://user-images.githubusercontent.com/72979004/235007854-bd48b0bc-8ce0-4104-ad77-52677140f57f.jpeg)<br>
 ![ScheduledTestsSetDateForTest](https://user-images.githubusercontent.com/72979004/235007885-08453697-66be-4a3a-bf51-b883c675f69c.jpeg)<br>
+![ScheduledTestsViewTestScreen](https://user-images.githubusercontent.com/72979004/235007953-7a7999fb-8b81-4acb-9130-11fef041e53f.jpeg)<br>
+![TestReportsScreen](https://user-images.githubusercontent.com/72979004/235008011-a29edc7d-cea5-4d98-90c3-1bf6b6614053.jpeg)<br>
+![CheckTestsScreen](https://user-images.githubusercontent.com/72979004/235008031-78cfbc45-cd74-4dcd-ac4d-25b2b72afe07.jpeg)<br>
+
+
+<h4>Manager:</h4><br><br>
+![ActiveTestRequestsScreen](https://user-images.githubusercontent.com/72979004/235008111-31d857b1-9153-4c80-b0dd-6bd16e70228a.jpeg)
+
