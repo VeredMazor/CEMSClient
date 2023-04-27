@@ -16,3 +16,6 @@ The teacher has access to the system with several features. The teacher can acce
 
 Manager:<br>
 The manager has access to the system with five different screens. The first screen allows the manager to view the tests that are currently happening in real-time. The second screen enables the administrator to view the feedback provided by the teacher. The third screen provides the manager with statistics related to each test, including the average, median, and more. The fourth screen allows the administrator to view the test database and see which teacher created the test. The final screen provides the manager with access to the question pool, where they can see which teacher created each question.
+
+
+<h3>Screens:</h3><br><br>
